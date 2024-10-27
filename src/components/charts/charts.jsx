@@ -33,10 +33,10 @@ const ServiceSalesAndSocialMediaCharts = () => {
         const salaryChart = new Chart(ctxSalaries, {
             type: 'bar',
             data: {
-                labels: ['Андрій', 'Саша 1', 'Богдан', 'Саша 2'],
+                labels: ['Андрій Діденко', 'Андрій Гуров', 'Саша Дмитришин', 'Богдан Дятлюк', 'Саша Давигора'],
                 datasets: [{
                     label: 'Зарплати (грн)',
-                    data: [15000, 20000, 18000, 16000],
+                    data: [40000, 25000, 23000, 24000, 23500],
                     backgroundColor: 'rgba(255, 99, 132, 0.2)',
                     borderColor: 'rgba(255, 99, 132, 1)',
                     borderWidth: 2,
