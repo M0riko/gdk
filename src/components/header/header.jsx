@@ -7,7 +7,7 @@ const Header = () => {
             <div className="logo">
                 <h1 className="logo_text">Ajaramarela</h1>
                 <div className="header_logo">
-                    <img src="../../../img/Ajaramarela.jpg" alt="Ajaramarela"/>
+                    <img src="../../img/Ajaramarela.jpg" alt="Ajaramarela"/>
                 </div>
             </div>
             <nav className="nav">
