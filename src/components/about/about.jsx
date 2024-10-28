@@ -15,9 +15,9 @@ const About = () => {
                 своєї справи, готових розвиватися та навчатися заради досягнення найкращих результатів для наших
                 клієнтів.</p>
 
-            <p>Ми завжди відкриті для нових ідей та співпраці. Підписуйтесь на нас у <a href="https://linkedin.com"
+            <p>Ми завжди відкриті для нових ідей та співпраці. Підписуйтесь на нас у <a href="https://www.linkedin.com/in/ajaramarela-student-72a143334/"
                                                                                         target="_blank">LinkedIn</a> і <a
-                href="https://telegram.com" target="_blank">Telegram</a>, щоб слідкувати за нашими оновленнями та бути
+                href="https://t.me/ajaramarela" target="_blank">Telegram</a>, щоб слідкувати за нашими оновленнями та бути
                 на зв'язку.</p>
 </div>
 )

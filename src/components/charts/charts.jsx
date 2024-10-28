@@ -13,7 +13,7 @@ const ServiceSalesAndSocialMediaCharts = () => {
                 labels: ['Лендинги', 'Корпоративні сайти', 'Інтернет-магазини', 'Блог', 'Сайти-портфоліо'],
                 datasets: [{
                     label: 'Продажі послуг (кількість)',
-                    data: [15, 10, 5, 8, 3],
+                    data: [15, 5, 3, 2, 1],
                     backgroundColor: 'rgba(75, 192, 192, 0.2)',
                     borderColor: 'rgba(75, 192, 192, 1)',
                     borderWidth: 2,
@@ -59,7 +59,7 @@ const ServiceSalesAndSocialMediaCharts = () => {
                 labels: ['Активні', 'Неактивні', 'Потенційні'],
                 datasets: [{
                     label: 'Користувачі Telegram',
-                    data: [300, 50, 150],
+                    data: [150, 25, 500],
                     backgroundColor: ['rgba(255, 206, 86, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 99, 132, 0.2)'],
                     borderColor: ['rgba(255, 206, 86, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 99, 132, 1)'],
                     borderWidth: 1,
@@ -75,7 +75,7 @@ const ServiceSalesAndSocialMediaCharts = () => {
                 labels: ['Перегляди профілю', 'Залучення', 'Підписки'],
                 datasets: [{
                     label: 'Статистика LinkedIn',
-                    data: [400, 300, 200],
+                    data: [50, 10, 50],
                     backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)'],
                     borderColor: ['rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)'],
                     borderWidth: 1,
